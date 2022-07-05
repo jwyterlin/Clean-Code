@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='Introducao'/>
+        <page name='Algumas consideracoes'/>
+        <page name='Nomes significativos'/>
+        <page name='Nomes pronunciaveis'/>
+        <page name='Nomes passiveis de busca'/>
+        <page name='Nomes de Classes'/>
+        <page name='Nomes de Método'/>
+        <page name='Funcoes'/>
+        <page name='Evite Repeticao'/>
+        <page name='Obrigado'/>
+    </pages>
+</playground>
